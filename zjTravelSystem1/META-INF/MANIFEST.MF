@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Pash: com.microsoft.sqlserver.jdbc.SQLServerDriver
+Main-Class: travelsystem.MainApplication
+
